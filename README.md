@@ -19,4 +19,5 @@
 
 ![step_by_step](Images/step_by_step.png)
 
-备注：上传了jupyter notebook版本，有需要的同学可以下载.ipynb文件，用jupyter notebook或者jupyterlab改着玩.
+###备注：
+上传了jupyter notebook版本，有需要的同学可以下载.ipynb文件，用jupyter notebook或者jupyterlab改着玩.
