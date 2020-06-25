@@ -16,4 +16,7 @@
 2. 运行程序：在terminal/命令行软件跳转至相应目录，输入 ```python -m stock```
 3. 输入想查询美股的英文代码，起始日期、截止日期、表格模式、是否需要将数据写入文件...
 
-![](Images/step_by_step.png)
+
+![step_by_step](Images/step_by_step.png)
+
+备注：上传了jupyter notebook版本，有需要的同学可以下载.ipynb文件，用jupyter notebook或者jupyterlab改着玩.
